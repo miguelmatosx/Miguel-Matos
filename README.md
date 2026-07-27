@@ -7,7 +7,7 @@
 <h2 align="center">Building technology with curiosity and purpose.</h2>
 
 <p align="center">
-  <strong>ADS Student @ UCDB</strong><br/>
+  <strong>Computer Science Student @ UCDB</strong><br/>
   Campo Grande, MS • Brazil 🇧🇷
 </p>
 
@@ -35,7 +35,7 @@
 
 ```txt id="8o3n5w"
 • Full Stack Developer Intern
-• ADS student at UCDB
+• Computer Science student at UCDB
 • Passionate about software development and technology
 • Studying Computer Science fundamentals through CS50
 • Interested in Backend Architecture and Artificial Intelligence
